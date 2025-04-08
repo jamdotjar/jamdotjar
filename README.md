@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, I'm Finn!
+I'm a highschooler in Canada trying to make semi-interesting stuff, every now and then.
 
-<!--
-**jamdotjar/jamdotjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love trying new things, this is what I'm mainly using/learning rn 👀:
+  - 🦀 Rust
+  - 📝 Neovim
+  - ⚙️ Arch ( tbh, just anything other than windows )
+  - 🛠️ KiCad
+Need proof I code? fine, just don't blow my cover
 
-Here are some ideas to get you started:
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jamdotjar&theme=transparent&show_icons=true&hide_border=false&layout=compact)
+![stats in a hats](https://github-readme-stats.hackclub.dev/api/wakatime?username=89&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Time+Spent&layout=compact&cache_seconds=30&langs_count=6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*time tracked since **December 2024***
+
+
+
+
+
+*proudly a [Hack Clubber](https://hackclub.com/)*
