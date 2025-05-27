@@ -6,6 +6,7 @@ I love trying new things, this is what I'm mainly using/learning rn 👀:
   - 📝 Neovim
   - ⚙️ Arch ( tbh, just anything other than windows )
   - 🛠️ KiCad
+
 Need proof I code? fine, just don't blow my cover
 
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jamdotjar&theme=transparent&show_icons=true&hide_border=false&layout=compact)
