@@ -1,11 +1,12 @@
 ## Hey, I'm Finn!
 I'm a highschooler in Canada trying to make semi-interesting stuff, every now and then.
 
-I love trying new things, this is what I'm mainly using/learning rn 👀:
+I love trying new things, this is what I'm mainly using/learning right now 👀:
   - 🦀 Rust
   - 📝 Neovim
   - ⚙️ Arch ( tbh, just anything other than windows )
   - 🛠️ KiCad
+  - 📐 Fusio 360
 
 Need proof I code? fine, just don't blow my cover
 
@@ -18,4 +19,4 @@ Need proof I code? fine, just don't blow my cover
 
 
 
-*proudly a [Hack Clubber](https://hackclub.com/)*
+*I'm also a a [Hack Clubber](https://hackclub.com/)*
