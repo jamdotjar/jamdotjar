@@ -7,6 +7,7 @@ I love trying new things, this is what I'm mainly using/learning right now 👀:
   - ⚙️ Arch ( tbh, just anything other than windows )
   - 🛠️ KiCad
   - 📐 Fusion 360
+  - 🌈 LVGL
 
 Need proof I code? fine, just don't blow my cover
 
