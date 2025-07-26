@@ -1,13 +1,13 @@
 ## Hey, I'm Finn!
-I'm a highschooler in Canada trying to make semi-interesting stuff, every now and then.
+I'm a highschooler in Canada trying to make semi-interesting stuff every now and then.
 
 I love trying new things, this is what I'm mainly using/learning right now 👀:
   - 🦀 Rust
   - 📝 Neovim
-  - ⚙️ Arch ( tbh, just anything other than windows )
+  - 🤖 Godot
   - 🛠️ KiCad
   - 📐 Fusion 360
-  - 🌈 LVGL
+ 
 
 Need proof I code? fine, just don't blow my cover
 
