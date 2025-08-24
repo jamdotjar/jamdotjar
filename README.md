@@ -1,7 +1,7 @@
 ## Hey, I'm Finn!
 I'm a highschooler in Canada trying to make semi-interesting stuff every now and then.
 
-I love trying new things, this is what I'm mainly using/learning right now 👀:
+I love trying new things, here's is what I'm mainly working with right now:
   - 🦀 Rust
   - 📝 Neovim
   - 🤖 Godot
@@ -21,3 +21,5 @@ Need proof I code? fine, just don't blow my cover
 
 
 *I'm also a a [Hack Clubber](https://hackclub.com/)*
+
+> *pfp by [acon](https://github.com/acornitum)*
